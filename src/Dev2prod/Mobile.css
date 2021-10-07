@@ -1,0 +1,26 @@
+.mobile{
+    width: 100%;
+    padding-left: 7%;
+    padding-right: 7%;
+    height: auto;
+    /* padding: 80px 0px; */
+}
+.mobile_1{
+    padding: 80px 0;
+}
+.mobile_1 .col-lg-6 .mod_pp p{
+    padding: 0;
+    margin: 0 0 30px 0;
+    color: #444;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.1rem;
+    opacity: 0.8;
+    font-weight: 400;
+    line-height: 1.5;
+
+}
+.mobile_1 .col-lg-6 .mobile_img img{
+    width: 100%;
+    height: auto;
+    border-style: none;
+}

@@ -1,0 +1,133 @@
+.Footer{
+   
+    padding: 60px 0 30px 0;
+    background: #f5f8fd;
+}
+
+.Footer_1{
+    padding-left: 7%;
+    padding-right: 7%;
+    width: 100%;
+    height:auto;
+}
+.Footer_1 .footer_img {
+position: relative;
+bottom: 1.5rem; 
+margin-bottom: 30px;
+}
+.Footer_1 .footer_img p{
+    font-size: 17px;
+    line-height: 28px;
+    margin-bottom: 0;
+    font-family: "Montserrat", sans-serif;
+    color: #535074;
+    opacity: .8;
+    position: inherit;
+    top:30px;
+}
+.Footer_1 .row .spam_a h5{
+    font-size: 18px;
+    font-weight: bold;
+    color: #413e66;
+    text-transform: uppercase;
+    /* position: relative; */
+    padding-bottom: 10px;
+    font-family: "Montserrat", sans-serif;
+    margin: 0 0 20px 0;
+    padding: 0;
+    line-height: 1.2;
+}
+.Footer_1 .row .spam_a ul a{
+    color:#696592;
+    transition: .5s;
+    background-color: transparent;
+}
+
+.Footer_1 .row .spam_a ul a:hover{
+    color: #1bb1dc;
+}
+.Footer_1 .row .form_1 h5{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;  
+    color: #413e66;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+.Footer_1 .row .spam_a h4{
+    font-size: 22px;
+    font-weight: bold;
+    color: #413e66;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom: 10px;
+    font-family: "Montserrat", sans-serif;
+    margin: 0 0 20px 0;
+    line-height: 1.2;
+}
+.Footer_1 .row .spam_a p{
+    padding: 0;
+    margin: 0 0 30px 0;
+    font-size: 14px;
+    color: #444;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+   opacity: .8;
+}
+
+.Footer_1 .row .spam_a  .footer_icons ul li{
+display: inline-block;
+/* margin-left: 10px; */
+
+}
+
+.Footer_1 .row .spam_a  .footer_icons a{
+    /* font-size: 18px;
+    display: inline-block;
+    background: #1bb1dc;
+    line-height: 1;
+    padding: 8px 0; 
+    margin-right: 4px;
+    border-radius: 50%;
+  
+    width: 36px;
+    height: 36px; */
+    
+    font-size: 18px;
+    line-height: 1;
+    width: 36px;
+    margin-right: 6px;
+    display: inline-block;
+    padding: 8px;
+    border-radius: 50%;
+   background-color: #1bb1dc;
+    transition: 0.3s
+}
+
+.Footer_1 .col-lg-4 .form_1 .form-group input[type="email"]{
+border: none;
+border: 1px solid #d9dde6;
+}
+.Footer_1 .col-lg-4 .form_1 button[type="submit"]{
+    background: #1bb1dc;
+    border: 0;
+    border-radius: 3px;
+    padding: 8px 30px;
+    color: #fff;
+    -webkit-appearance: button;
+    transition: 0.3s;
+}
+
+.copyRight{
+    text-align: center;
+    padding-top: 30px;
+    color: #535074;
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+.copyRight strong{
+    font-weight: 800;
+}
